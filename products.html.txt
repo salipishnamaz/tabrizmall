@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>محصولات - تبریزمال</title>
+    <link rel="stylesheet" href="app.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">تبریزمال</div>
+            <ul>
+                <li><a href="index.html">صفحه اصلی</a></li>
+                <li><a href="features.html">ویژگی‌ها</a></li>
+                <li><a href="products.html">محصولات</a></li>
+                <li><a href="contact.html">تماس</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="products">
+            <h1>محصولات منتخب تبریزمال</h1>
+            <p>بهترین‌ها را از ما بخواهید</p>
+            
+            <div class="product-grid">
+                <!-- محصولات شما اینجا قرار می‌گیرد -->
+                <div class="product-card">
+                    <h3>محصول ویژه ۱</h3>
+                    <p>توضیحات محصول</p>
+                </div>
+                
+                <div class="product-card">
+                    <h3>محصول ویژه ۲</h3>
+                    <p>توضیحات محصول</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>

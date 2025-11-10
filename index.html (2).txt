@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>تبریزمال - اولین پلتفرم تجارت فیزیکی-دیجیتال</title>
+    <link rel="stylesheet" href="app.css">
+</head>
+<body>
+    <!-- هدر و نوار导航 -->
+    <header>
+        <nav>
+            <div class="logo">تبریزمال</div>
+            <ul>
+                <li><a href="index.html">صفحه اصلی</a></li>
+                <li><a href="features.html">ویژگی‌ها</a></li>
+                <li><a href="products.html">محصولات</a></li>
+                <li><a href="contact.html">تماس</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- محتوای اصلی -->
+    <main>
+        <section class="hero">
+            <h1>اولین پلتفرم تجارت فیزیکی-دیجیتال</h1>
+            <p>تبریزمال با ترکیب هوش مصنوعی پیشرفته و شبیه‌سازی بلک‌چین، انقلابی در تجارت شهری ایجاد کرده است. از تولید تا صادرات، در کنار شما هستیم.</p>
+            <div class="buttons">
+                <a href="products.html" class="btn">مشاهده محصولات</a>
+                <a href="contact.html" class="btn">همکاری با ما</a>
+            </div>
+        </section>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>

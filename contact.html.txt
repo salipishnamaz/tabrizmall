@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>تماس با ما - تبریزمال</title>
+    <link rel="stylesheet" href="app.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">تبریزمال</div>
+            <ul>
+                <li><a href="index.html">صفحه اصلی</a></li>
+                <li><a href="features.html">ویژگی‌ها</a></li>
+                <li><a href="products.html">محصولات</a></li>
+                <li><a href="contact.html">تماس</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="contact">
+            <h1>آماده شروع همکاری هستید؟</h1>
+            <p>همین امروز به خانواده تبریزمال بپیوندید و کسب‌وکار خود را متحول کنید</p>
+            
+            <div class="contact-info">
+                <h2>تماس با ما</h2>
+                <p>ایمیل: alt.pishnamazi@gmail.com</p>
+                <p>انگیزه ملی اقتصاد هوشمند محلی</p>
+            </div>
+        </section>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>

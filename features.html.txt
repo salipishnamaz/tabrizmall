@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ویژگی‌ها - تبریزمال</title>
+    <link rel="stylesheet" href="app.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">تبریزمال</div>
+            <ul>
+                <li><a href="index.html">صفحه اصلی</a></li>
+                <li><a href="features.html">ویژگی‌ها</a></li>
+                <li><a href="products.html">محصولات</a></li>
+                <li><a href="contact.html">تماس</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="features">
+            <h1>ویژگی‌های پلتفرم تبریزمال</h1>
+            
+            <div class="feature-grid">
+                <div class="feature-card">
+                    <h3>دسترسی جهانی</h3>
+                    <p>صادرات به بازارهای بین المللی</p>
+                </div>
+                
+                <div class="feature-card">
+                    <h3>امنیت بالا</h3>
+                    <p>حفاظت پیشرفته از داده ها</p>
+                </div>
+                
+                <div class="feature-card">
+                    <h3>پرداخت سریع</h3>
+                    <p>تراکنش‌های آنی XRP</p>
+                </div>
+                
+                <div class="feature-card">
+                    <h3>هوش مصنوعی</h3>
+                    <p>تحلیل هوشمند بازار</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>
